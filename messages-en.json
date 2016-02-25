@@ -279,5 +279,5 @@
 "label.launch_data.stard_date": "Start date (AAAAMMJJ):",
 "label.launch_data.end_date": "End date (AAAAMMJJ)",
 "label.launch_data.indication": "Please don't select more than one month",
-"label.launch_data.btn": "Launch WorkFlow",
+"label.launch_data.btn": "Launch WorkFlow"
 }	
