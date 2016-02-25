@@ -119,7 +119,7 @@
 	"label.contracts_menu.context_contract_display_tab_indicator": "Indicateur",
 	"label.contracts_menu.context_contract_display_tab_threshold": "Seuil associé",
 	"label.contracts_menu.context_contract_display_tab_edition": "Edition",
-	"label.contracts_menu.context_contract_display_tab_delete": "Supprimer le contexte de contrat sélectioné ?",
+	"label.contracts_menu.context_contract_display_tab_delete": "Supprimer le contexte de contrat sélectionné ?",
 	"label.contracts_menu.context_contract_create_title": "Création d'un contexte de contrat",
 	"label.contracts_menu.context_contract_create_name": "Nom du contexte de contrat :",
 	"label.contracts_menu.context_contract_create_description": "Description:",
