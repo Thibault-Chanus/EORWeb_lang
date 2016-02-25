@@ -100,7 +100,7 @@
 	"label.mgt_define_reports.btn_add_page_title": "Déclarer un nouveaux rapport",
 	"label.mgt_define_reports.btn_add_page_name": "Nom du rapport:",
 	"label.mgt_define_reports.btn_add_page_file_name": "Emplacement serveur du rapport (sans le chemin):",
-	"label.mgt_define_reports.btn_add_page_add_report": "Ajouter le rapport a la basse de données",
+	"label.mgt_define_reports.btn_add_page_add_report": "Ajouter le rapport a la base de données",
 	"label.mgt_upload_report.title": "UPLOAD D'UN RAPPORT BIRT (FICHIER RPTDESIGN)",
 	"label.mgt_upload_report.btn_upload": "Upload",
 	"label.mgt_upload_report.btn_search": "Choisissez un fichier",
