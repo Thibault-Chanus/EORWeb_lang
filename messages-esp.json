@@ -280,23 +280,4 @@
 	"label.launch_data.end_date": "Fecha de finalización (AAAAMMDD):",
 	"label.launch_data.indication": "No introduzca más de un mes",
 	"label.launch_data.btn": "Realizar el workflow"
-/*	"label.pentaho.title_statu": "Status",
-	"label.pentaho.tab_transformation_name": "Nom de transformation",
-	"label.pentaho.tab_transformation_id": "Carte des objet ID",
-	"label.pentaho.tab_transformation_status": "Status",
-	"label.pentaho.tab_transformation_date": "Date de derniére mise a jours",
-	"label.pentaho.tab_transformation_remove": "Enlever de la liste",
-	"label.pentaho.tab_job_name": "Nom du l'enmploie",
-	"label.pentaho.tab_job_id": "Carte des objet ID",
-	"label.pentaho.tab_job_status": "Status",
-	"label.pentaho.tab_job_date": "Date de derniére mise a jours",
-	"label.pentaho.tab_job_remove": "Enlerver de la liste",
-	"label.pentaho.tiel_details": "Configuration des details:",
-	"label.pentaho.tab_parameter_parameter": "Paramètres",
-	"label.pentaho.tab_parameter_value": "Value",
-	"menu.subtab.etl_reports": "Rapports",
-	"menu.link.etl_reports": "Vos rapports",
-	"label.etl_reports.title": "Génération du Rapport",
-	"label.etl_reports.btn": "OK",*/
-
 }

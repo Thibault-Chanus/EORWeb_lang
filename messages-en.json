@@ -280,23 +280,4 @@
 "label.launch_data.end_date": "End date (AAAAMMJJ)",
 "label.launch_data.indication": "Please don't select more than one month",
 "label.launch_data.btn": "Launch WorkFlow",
-/*	""label.pentaho.title_statu": "Status",
-"label.pentaho.tab_transformation_name": "Transformation name",
-"label.pentaho.tab_transformation_id": "Object ID card",
-"label.pentaho.tab_transformation_status": "Status",
-"label.pentaho.tab_transformation_date": "Last back-up date",
-"label.pentaho.tab_transformation_remove": "Remove from the list",
-"label.pentaho.tab_job_name": "Employs name",
-"label.pentaho.tab_job_id": "Object ID card",
-"label.pentaho.tab_job_status": "Status",
-"label.pentaho.tab_job_date": "Last back-up date",
-"label.pentaho.tab_job_remove": "Remove from the list",
-"label.pentaho.tiel_details": "Configuration of details:",
-"label.pentaho.tab_parameter_parameter": "Setting",
-"label.pentaho.tab_parameter_value": "Value",
-"menu.subtab.etl_reports": "Reports",
-"menu.link.etl_reports": "Your report",
-"label.etl_reports.title": "Generate a report",
-"label.etl_reports.btn": ""OK, 											*/
-	
 }	
