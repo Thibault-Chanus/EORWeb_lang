@@ -11,7 +11,7 @@
 	"label.auth.tab_type_mysql": "MySQL",
 	"label.auth.tab_type_ldap": "LDAP",
 	"label.auth.tab_ldapset_title": "Paramètres LDAP",
-	"label.auth.tab_ldapset_ip": "Addresse ip du serveur LDAP ",
+	"label.auth.tab_ldapset_ip": "Addresse ip du serveur LDAP",
 	"label.auth.tab_ldapset_port": "Port du serveur LDAP",
 	"label.auth.tab_ldapset_dn": "DN de recherche",
 	"label.auth.tab_ldapset_filter": "Filtre de recherche",
